@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mahmoud<br><br>Frontend Engineer focused on building scalable web and mobile applications using Vue.js and Nuxt.<br>Here you’ll find projects related to modern frontend development, performance optimization, and real-world application architecture.<br><br>🔭 I’m currently working on converting web applications into mobile apps using Capacitor<br><br>🌱 I’m currently exploring advanced frontend architecture, performance optimization, and mobile integrations<br><br>💬 Ask me about Vue.js, Nuxt, frontend architecture, and API integrations<br><br>📫 How to reach me: mahmoudsabiha51@gmail.com <br><br>⚡ Fun fact: I enjoy turning complex problems into simple, clean solutions
+Hi 👋, I'm Mahmoud<br><br>Frontend Engineer focused on building scalable web applications using Vue.js and Nuxt.<br>Here you’ll find projects related to modern frontend development, performance optimization, and real-world application architecture.<br><br>🔭 I’m currently building scalable web applications using Vue.js and Nuxt<br><br>🌱 I’m continuously improving my expertise in Vue 3, Nuxt, and frontend architecture best practices<br><br>📫 How to reach me: mahmoudsabiha51@gmail.com <br><br>⚡ Fun fact: I enjoy turning complex problems into simple, clean solutions
 
 
 ## 🌐 Socials:

@@ -12,10 +12,7 @@ Hi 👋, I'm Mahmoud<br><br>Frontend Engineer focused on building scalable web a
 ![](https://streak-stats.demolab.com/?user=mahmoud921996&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoud921996&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=mahmoud921996&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **mahmoud921996/mahmoud921996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
